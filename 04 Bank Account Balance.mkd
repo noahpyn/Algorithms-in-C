@@ -1,0 +1,26 @@
+# Bank Account Balance 
+
+This program explores assignment and increment operators. 
+
+## You want to withdraw some money from your bank account.
+## The program takes two numbers as input, your account balance and the amount you want to withdraw. 
+
+Calculate and outputs the remaining balance after the withdrawal.
+
+### Sample Input
+450000
+9000
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    int balance;
+    int withdraw;
+    cin >> balance;
+    cin >> withdraw; 
+    // your code goes here
+    balance -= withdraw;
+    cout << balance << endl;
+    return 0;
+}
