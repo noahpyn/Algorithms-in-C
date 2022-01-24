@@ -5,12 +5,12 @@ This is a repo of all of my C++ Sololearn E-Learning programs and projects explo
 
 ## Featured Programs:-
 
-- 🏠 Room Renovations
-- 🍴Culinary Masterpiece
-- 🤖Robot Copywriter
-- 💰Bank Account Balance
-- 🚎 Transportation 
-- 🏄🏾‍♂️ Pool Entrance & many many more!
+1. 🏠 Room Renovations
+2. 🍴Culinary Masterpiece
+3. 🤖Robot Copywriter
+4. 💰Bank Account Balance
+5. 🚎 Transportation 
+6.  🏄🏾‍♂️ Pool Entrance & many many more!
 
 
 
