@@ -11,6 +11,7 @@ Calculate and outputs the remaining balance after the withdrawal.
 450000
 9000
 
+```
 #include <iostream>
 using namespace std;
 
@@ -24,3 +25,4 @@ int main() {
     cout << balance << endl;
     return 0;
 }
+```
