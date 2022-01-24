@@ -1,3 +1,5 @@
+# Room Renovation 🏠
+
 ## You need to buy paint for the floor of a rectangular room.
 The given program takes the room's length and width as input.
 
