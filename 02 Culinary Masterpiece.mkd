@@ -1,0 +1,18 @@
+## You are a cook in a restaurant. You need exactly 3 crabs to cook your special seafood dish named "Trio".
+
+This program takes the number of crabs as input and output how many "Trio" dishes can be made.
+
+```
+#include <iostream>
+using namespace std;
+
+int main() {
+    int crabs;
+    cin >> crabs;
+    //your code goes here
+    cout << crabs / 3 << endl;
+    return 0;
+}
+```
+
+
