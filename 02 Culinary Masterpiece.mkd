@@ -1,3 +1,5 @@
+# Culinary Masterpiece 🍴
+
 ## You are a cook in a restaurant. You need exactly 3 crabs to cook your special seafood dish named "Trio".
 
 This program takes the number of crabs as input and output how many "Trio" dishes can be made.
