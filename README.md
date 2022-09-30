@@ -9,8 +9,8 @@ This is a repo of all of my C++ programs and projects exploring basic to interme
 2. 🍴Culinary Masterpiece
 3. 🤖Robot Copywriter
 4. 💰Bank Account Balance
-5. 🚎 Transportation - End of Module 1 Project
-6.  🏄🏾‍♂️ Pool Entrance & many many more!
+5. 🚎 Bus Passengers Calculator
+6.  🏄🏾‍♂️ Pool Entrance
 
 
 
